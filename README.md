@@ -1,5 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jasda Singhapooti
 =========================================================================================================================================
+### About Me
+- Name:Jasda Singhapooti
+- AKA:Solomon
+- Email:gamemerza0@gmail.com
+- Location:Bangkok,Thailand
+
+### My Education
+- 📚 Information Technology at Suratthani Polytechnic College
+- 📚 Engineering Education at KMITL
 
 ### Skills
 
