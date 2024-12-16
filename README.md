@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### About Me
 - Name:Jasda Singhapooti
 - AKA:Solomon
-- Email:gamemerza0@gmail.com
+- Email:jasda.sing@gmail.com
 - Location:Bangkok,Thailand
 
 ### My Education
